@@ -7,8 +7,6 @@ Step 1. Import the Dataset from pytoch torchvision Dataset using `input_dataset(
 
 Step 2: Visualize and explore the training Dataset using the `visualise_sampledata` function
 
-![](https://github.com/hanoonaR/fseai_image_collection/blob/master/fmnist_input.JPG)
-
 Step 3: Use the `get_features` function to get the features from Dataset
 
 Step 4: Build the model using the `build_model` function
@@ -19,7 +17,7 @@ Step 6: Use the `test_model` function to test your Model with the test data set 
 
 Step 7: Visualize you model performance by sample prediction using the `visualise_test` function
 
-![](https://github.com/hanoonaR/fseai_image_collection/blob/master/fmnist_output.JPG)
+For more details, follow the instruction given inside the LMS.
 
 ## Prerequisites:
 1. Python
