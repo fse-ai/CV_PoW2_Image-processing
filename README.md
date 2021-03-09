@@ -17,7 +17,7 @@ Step 6: Use the `test_model` function to test your Model with the test data set 
 
 Step 7: Visualize you model performance by sample prediction using the `visualise_test` function
 
-For more details, follow the instruction given inside the LMS.
+For more details, follow the instruction(PDF) given inside the LMS.
 
 ## Prerequisites:
 1. Python
